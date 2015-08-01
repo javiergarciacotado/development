@@ -1,9 +1,11 @@
+package lesson1;
+
 import java.util.*;
 
 /**
  * @author Speakjava (simon.ritter@oracle.com)
  */
-public class First {
+public class Lesson1 {
     /**
      * Run the exercises to ensure we got the right answers
      */
@@ -107,7 +109,7 @@ public class First {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        First lesson = new First();
+        Lesson1 lesson = new Lesson1();
         lesson.runExercises();
     }
 }
